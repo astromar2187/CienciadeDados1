@@ -65,7 +65,7 @@ Componentes responsáveis por extrair dados de diferentes fontes:
   - `save_to_csv`: Salva dados em formato CSV
 
 ### Utilitários
-
+  [MANUTENÇÃO]
 - **EncodingManager**: Gerencia problemas de codificação de caracteres
   - `detect_encoding`: Detecta a codificação de um conteúdo binário
   - `process_content`: Processa o conteúdo binário tratando problemas de encoding
