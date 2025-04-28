@@ -3,16 +3,31 @@ import bs4
 import re
 
 # puxa os nomes dos artistas do arquivo
-artistas = [linha.strip() for linha in open('artistas.txt', encoding='utf-8')]
+artistas = [linha.strip() for linha in open('novo_artistas.txt', encoding='utf-8')]
 
 # Monta a url
-url = 'https://www.vagalume.com.br/' + artistas[0] + "/discografia/"
+url = 'https://www.vagalume.com.br/' + artistas[1] + "/discografia/"
 
 # Faz a requisição
 req = requests.get(url)
 
 # puxa o html -> usa req.content e não req.text por erros de encoding detectados em testes
 soup = bs4.BeautifulSoup(req.content, "html.parser")
+
+
+#nome do artista
+artist_name = soup.find("h1", "darkBG long").get_text().strip()
+
+# tags associadas ao artista
+artist_tags_list = soup.find("ul", "subHeaderTags h14")
+artist_tags = []
+
+if artist_tags_list:
+    tag_items = artist_tags_list.find_all("li")
+    for tag in tag_items:
+        tag_text = tag.get_text().strip()
+        artist_tags.append(tag_text)
+
 
 # Lista que vai guardar os álbuns
 discografia = []
