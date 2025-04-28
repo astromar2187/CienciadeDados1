@@ -22,7 +22,7 @@ class Orchestrator:
     def process_artist(self, artist):
         """Processa um artista específico"""
         # Extrai discografia
-        discography = self.discography_extractor.extract_discography(artist)
+        discography, artist_name, artist_tags = self.discography_extractor.extract_discography(artist)
         
         if not discography:
             print(f"Nenhum álbum encontrado para {artist}")
@@ -44,10 +44,12 @@ class Orchestrator:
                     # Processa a letra se encontrada
                     if lyrics:
                         lyrics = self.text_processor.normalize(lyrics)
+                        lyrics = self.text_processor.tokenize(lyrics)
                 
                 # Cria registro da música
                 song_data = {
-                    "artist": artist,
+                    "artist": artist_name,
+                    "tags": artist_tags,
                     "album": album["album_title"],
                     "year": album["year"],
                     "record_label": album["album_record"],
@@ -56,6 +58,7 @@ class Orchestrator:
                 }
                 
                 all_songs.append(song_data)
+                break
         
         # Salva todas as músicas em CSV
         if all_songs:

@@ -19,7 +19,8 @@ class LyricsExtractor:
             
             # Usa o gerenciador de encoding se disponível
             if self.encoding_manager:
-                content = self.encoding_manager.process_content(req.content)
+                #content = self.encoding_manager.process_content(req.content)
+                content = req.content
             else:
                 content = req.content
                 
@@ -29,7 +30,7 @@ class LyricsExtractor:
             # No Vagalume, a letra geralmente fica em uma div com id 'lyrics'
             lyrics_div = soup.find("div", id="lyrics")
             if lyrics_div:
-                lyrics = lyrics_div.get_text().strip()
+                lyrics = lyrics_div.get_text(separator=' ').strip()
                 
                 # Adiciona delay para evitar sobrecarga do servidor
                 time.sleep(1.5)

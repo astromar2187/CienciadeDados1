@@ -30,6 +30,22 @@ class DiscographyExtractor:
                 
             # Analisa o HTML
             soup = bs4.BeautifulSoup(content, "html.parser")
+
+            # Extrai nome do artista
+            artist_name = soup.find("h1", "darkBG long")
+            if artist_name == None:
+                artist_name = soup.find("h1", "darkBG")
+            artist_name = artist_name.get_text().strip()
+
+            # Extrai tags associadas ao artista
+            artist_tags_list = soup.find("ul", "subHeaderTags h14")
+            artist_tags = []
+
+            if artist_tags_list:
+                tag_items = artist_tags_list.find_all("a")
+                for tag in tag_items:
+                    tag_text = tag.get_text().strip()
+                    artist_tags.append(tag_text)
             
             # Lista para guardar os álbuns
             discografia = []
@@ -44,7 +60,7 @@ class DiscographyExtractor:
             # Adiciona delay para evitar sobrecarga do servidor
             time.sleep(1.5)
             
-            return discografia
+            return discografia, artist_name, artist_tags
             
         except Exception as e:
             print(f"Erro ao extrair discografia de {artist}: {e}")
@@ -53,14 +69,14 @@ class DiscographyExtractor:
     def _extract_album_info(self, album_div):
         """Extrai informações de um álbum específico"""
         album = {}
-        
+
         # Extrai título do álbum
         album_title_elem = album_div.find("h1", "albumTitle")
         if album_title_elem:
             album["album_title"] = album_title_elem.get_text().strip()
         else:
             album["album_title"] = None
-            
+        
         # Extrai ano e gravadora
         album_year_elem = album_div.find("p", "albumYear")
         album_record_elem = album_div.find("p", "albumRecord")
@@ -74,7 +90,7 @@ class DiscographyExtractor:
                 # Se sobrou algo depois do ano, é a gravadora
                 possible_label = match.group(2).strip()
                 if possible_label and not album_record_elem:
-                    album["album_record"] = possible_label
+                    album["album_record"] = possible_label.get_text().strip()
                 else:
                     album["album_record"] = None
             else:
