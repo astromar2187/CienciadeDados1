@@ -3,7 +3,7 @@ import bs4
 import re
 
 # puxa os nomes dos artistas do arquivo
-artistas = [linha.strip() for linha in open('artistas.txt', encoding='utf-8')]
+artistas = [linha.strip() for linha in open('\CienciadeDados1\artistas.txt', encoding='utf-8')]
 
 # Monta a url
 url = 'https://www.vagalume.com.br/' + artistas[0] + "/discografia/"
