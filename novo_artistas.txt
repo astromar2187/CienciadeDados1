@@ -40,3 +40,4 @@ proverbio-x
 potencial-3
 expressao-ativa
 rajada-verbal
+negredo
