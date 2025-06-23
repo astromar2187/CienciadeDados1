@@ -9,7 +9,7 @@ from orchestrator import Orchestrator
 def main():
     # Inicializa componentes
     encoding_manager = EncodingManager()
-    artist_extractor = ArtistExtractor('artistas.txt')
+    artist_extractor = ArtistExtractor('novo_artistas.txt')
     discography_extractor = DiscographyExtractor(encoding_manager)
     lyrics_extractor = LyricsExtractor(encoding_manager)
     text_processor = TextProcessor()

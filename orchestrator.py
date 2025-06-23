@@ -58,7 +58,6 @@ class Orchestrator:
                 }
                 
                 all_songs.append(song_data)
-                break
         
         # Salva todas as músicas em CSV
         if all_songs:

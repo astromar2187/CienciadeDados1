@@ -41,3 +41,4 @@ class DataStorage:
         except Exception as e:
             print(f"Erro ao salvar CSV: {e}")
             return False
+        
