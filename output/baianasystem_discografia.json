@@ -1,0 +1,116 @@
+[
+    {
+        "album_title": "O Futuro Não Demora",
+        "year": "2019",
+        "album_record": null,
+        "tracks": [
+            {
+                "name": "Água (Part. Orquestra Afrosinfônica e Antônio Carlos & Jocafi)",
+                "url": "https://www.vagalume.com.br/baianasystem/agua-part-orquestra-afrosinfonica-e-antonio-carlos-jocafi.html"
+            },
+            {
+                "name": "Bola de Cristal",
+                "url": "https://www.vagalume.com.br/baianasystem/bola-de-cristal.html"
+            },
+            {
+                "name": "Salve (Part. BNegão & Antônio Carlos & Jocafi)",
+                "url": "https://www.vagalume.com.br/baianasystem/salve-part-bnegao-antonio-carlos-jocafi.html"
+            },
+            {
+                "name": "Sulamericano (Part. Manu Chao)",
+                "url": "https://www.vagalume.com.br/baianasystem/sulamericano-part-manu-chao.html"
+            },
+            {
+                "name": "Sonar (Part. Curumin e Edgard)",
+                "url": "https://www.vagalume.com.br/baianasystem/sonar-part-curumin-e-edgard.html"
+            },
+            {
+                "name": "Melô do Centro da Terra (Part. Lourimbau)",
+                "url": "https://www.vagalume.com.br/baianasystem/melo-do-centro-da-terra-part-lourimbau.html"
+            },
+            {
+                "name": "Navio",
+                "url": "https://www.vagalume.com.br/baianasystem/navio.html"
+            },
+            {
+                "name": "Redoma (Part. Samba de Lata de Tijuaçú])",
+                "url": "https://www.vagalume.com.br/baianasystem/redoma-part-samba-de-lata-de-tijuacu.html"
+            },
+            {
+                "name": "Saci",
+                "url": "https://www.vagalume.com.br/baianasystem/saci.html"
+            },
+            {
+                "name": "Sambaqui",
+                "url": "https://www.vagalume.com.br/baianasystem/sambaqui.html"
+            },
+            {
+                "name": "Arapuca",
+                "url": "https://www.vagalume.com.br/baianasystem/arapuca.html"
+            },
+            {
+                "name": "CertoPeloCertoh (part. Vandal)",
+                "url": "https://www.vagalume.com.br/baianasystem/certopelocertoh-part-vandal.html"
+            },
+            {
+                "name": "Fogo (Part. Orquestra Afrosinfônica)",
+                "url": "https://www.vagalume.com.br/baianasystem/fogo-part-orquestra-afrosinfonica.html"
+            }
+        ]
+    },
+    {
+        "album_title": "Duas Cidades",
+        "year": "2016",
+        "album_record": null,
+        "tracks": [
+            {
+                "name": "Jah Jah Revolta, pt. 2",
+                "url": "https://www.vagalume.com.br/baianasystem/jah-jah-revolta-pt-2.html"
+            },
+            {
+                "name": "Bala na Agulha",
+                "url": "https://www.vagalume.com.br/baianasystem/bala-na-agulha.html"
+            },
+            {
+                "name": "Lucro (Descomprimindo)",
+                "url": "https://www.vagalume.com.br/baianasystem/lucro-descomprimindo.html"
+            },
+            {
+                "name": "Mercado",
+                "url": "https://www.vagalume.com.br/baianasystem/mercado.html"
+            },
+            {
+                "name": "Duas Cidades",
+                "url": "https://www.vagalume.com.br/baianasystem/duas-cidades.html"
+            },
+            {
+                "name": "Playsom",
+                "url": "https://www.vagalume.com.br/baianasystem/playsom.html"
+            },
+            {
+                "name": "Dia da Caça",
+                "url": "https://www.vagalume.com.br/baianasystem/dia-da-caca.html"
+            },
+            {
+                "name": "Cigano",
+                "url": "https://www.vagalume.com.br/baianasystem/cigano.html"
+            },
+            {
+                "name": "Calamatraca",
+                "url": "https://www.vagalume.com.br/baianasystem/calamatraca.html"
+            },
+            {
+                "name": "Panela",
+                "url": "https://www.vagalume.com.br/baianasystem/panela.html"
+            },
+            {
+                "name": "Barra Avenida, Pt. 2",
+                "url": "https://www.vagalume.com.br/baianasystem/barra-avenida-pt-2.html"
+            },
+            {
+                "name": "Azul",
+                "url": "https://www.vagalume.com.br/baianasystem/azul.html"
+            }
+        ]
+    }
+]

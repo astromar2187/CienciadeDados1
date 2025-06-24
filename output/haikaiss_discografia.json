@@ -1,0 +1,316 @@
+[
+    {
+        "album_title": "Teto Baixo",
+        "year": "2017",
+        "album_record": null,
+        "tracks": [
+            {
+                "name": "Inimigos",
+                "url": "https://www.vagalume.com.br/haikaiss/inimigos.html"
+            },
+            {
+                "name": "A Praga",
+                "url": "https://www.vagalume.com.br/haikaiss/a-praga.html"
+            },
+            {
+                "name": "Turista",
+                "url": "https://www.vagalume.com.br/haikaiss/turista.html"
+            },
+            {
+                "name": "M.O.D.A",
+                "url": "https://www.vagalume.com.br/haikaiss/m-o-d-a.html"
+            },
+            {
+                "name": "Fora da Lei (part. Cortesiadacasa)",
+                "url": "https://www.vagalume.com.br/haikaiss/fora-da-lei-part-cortesiadacasa.html"
+            },
+            {
+                "name": "Teto Baixo (skit)",
+                "url": "https://www.vagalume.com.br/haikaiss/teto-baixo-skit.html"
+            },
+            {
+                "name": "Chapa Drunk",
+                "url": "https://www.vagalume.com.br/haikaiss/chapa-drunk.html"
+            },
+            {
+                "name": "Dirijo",
+                "url": "https://www.vagalume.com.br/haikaiss/dirijo.html"
+            },
+            {
+                "name": "Cypher (part. Costa Gold & Funkero)",
+                "url": "https://www.vagalume.com.br/haikaiss/cypher-part-costa-gold-funkero.html"
+            },
+            {
+                "name": "Ouro Raro",
+                "url": "https://www.vagalume.com.br/haikaiss/ouro-raro.html"
+            },
+            {
+                "name": "Rap Lord",
+                "url": "https://www.vagalume.com.br/haikaiss/rap-lord-part-jonas-bento.html"
+            },
+            {
+                "name": "Cidade do Crime",
+                "url": "https://www.vagalume.com.br/haikaiss/cidade-do-crime.html"
+            },
+            {
+                "name": "Nome da Rosa",
+                "url": "https://www.vagalume.com.br/haikaiss/nome-da-rosa.html"
+            }
+        ]
+    },
+    {
+        "album_title": "Fotografia de um Instante",
+        "year": "2014",
+        "album_record": "MDC",
+        "tracks": [
+            {
+                "name": "IAFDUI (Introdução a Fotografia de um Instante)",
+                "url": "https://www.vagalume.com.br/haikaiss/iafdui-introducao-a-fotografia-de-um-instante.html"
+            },
+            {
+                "name": "A Prova",
+                "url": "https://www.vagalume.com.br/haikaiss/a-prova.html"
+            },
+            {
+                "name": "Mente do Compositor",
+                "url": "https://www.vagalume.com.br/haikaiss/mente-do-compositor.html"
+            },
+            {
+                "name": "De Onde Estou",
+                "url": "https://www.vagalume.com.br/haikaiss/de-onde-estou.html"
+            },
+            {
+                "name": "Matéria Escura",
+                "url": "https://www.vagalume.com.br/haikaiss/materia-escura.html"
+            },
+            {
+                "name": "Purgatório",
+                "url": "https://www.vagalume.com.br/haikaiss/purgatorio.html"
+            },
+            {
+                "name": "Antes Que Façam",
+                "url": "https://www.vagalume.com.br/haikaiss/antes-que-facam.html"
+            },
+            {
+                "name": "Moralina (part. Xis & Família Madá)",
+                "url": "https://www.vagalume.com.br/haikaiss/moralina-part-xis-e-familia-mada.html"
+            },
+            {
+                "name": "O Amanhecer",
+                "url": "https://www.vagalume.com.br/haikaiss/o-amanhecer.html"
+            },
+            {
+                "name": "4 e 21",
+                "url": "https://www.vagalume.com.br/haikaiss/4-e-21.html"
+            },
+            {
+                "name": "Célula do Monstro",
+                "url": "https://www.vagalume.com.br/haikaiss/celula-do-monstro.html"
+            },
+            {
+                "name": "De Longe (part. Salazar)",
+                "url": "https://www.vagalume.com.br/haikaiss/de-longe-part-salazar.html"
+            },
+            {
+                "name": "A Praia",
+                "url": "https://www.vagalume.com.br/haikaiss/a-praia.html"
+            },
+            {
+                "name": "Leva e Traz (part. Flow MC & Bitrinho)",
+                "url": "https://www.vagalume.com.br/haikaiss/leva-e-traz.html"
+            },
+            {
+                "name": "Desilusões de Um Vira Lata (part. CDC)",
+                "url": "https://www.vagalume.com.br/haikaiss/desilusoes-de-um-vira-lata-part-cdc.html"
+            },
+            {
+                "name": "Sinais (part. ZRM)",
+                "url": "https://www.vagalume.com.br/haikaiss/sinais-part-zrm.html"
+            },
+            {
+                "name": "Talvez Eu Vá Voltar",
+                "url": "https://www.vagalume.com.br/haikaiss/talvez-eu-va-voltar.html"
+            },
+            {
+                "name": "I Wanna Feel",
+                "url": "https://www.vagalume.com.br/haikaiss/i-wanna-feel.html"
+            }
+        ]
+    },
+    {
+        "album_title": "Cortesia da Casa, Vol. 2",
+        "year": "2012",
+        "album_record": null,
+        "tracks": [
+            {
+                "name": "Ascensão",
+                "url": "https://www.vagalume.com.br/haikaiss/ascensao.html"
+            },
+            {
+                "name": "Ascensão",
+                "url": "https://www.vagalume.com.br/haikaiss/ascensao.html"
+            },
+            {
+                "name": "Ambos e Ambos (Part. Jah Jonas Bento)",
+                "url": "https://www.vagalume.com.br/haikaiss/ambos-e-ambos-part-jah-jonas-bento.html"
+            },
+            {
+                "name": "Templários (Part. Nocivo Shomon)",
+                "url": "https://www.vagalume.com.br/haikaiss/templarios-part-nocivo-shomon.html"
+            },
+            {
+                "name": "Templários (Part. Nocivo Shomon)",
+                "url": "https://www.vagalume.com.br/haikaiss/templarios-part-nocivo-shomon.html"
+            },
+            {
+                "name": "Como Num Passe",
+                "url": "https://www.vagalume.com.br/haikaiss/como-num-passe.html"
+            },
+            {
+                "name": "Como Num Passe",
+                "url": "https://www.vagalume.com.br/haikaiss/como-num-passe.html"
+            },
+            {
+                "name": "Bosque Das Ilusões (Part. James Ventura)",
+                "url": "https://www.vagalume.com.br/haikaiss/bosque-das-ilusoes-part-james-ventura.html"
+            },
+            {
+                "name": "Ressaca (Part. Família Madá)",
+                "url": "https://www.vagalume.com.br/haikaiss/ressaca-part-familia-mada.html"
+            },
+            {
+                "name": "Ressaca (Part. Família Madá)",
+                "url": "https://www.vagalume.com.br/haikaiss/ressaca-part-familia-mada.html"
+            }
+        ]
+    },
+    {
+        "album_title": "Cortesia da Casa",
+        "year": "2012",
+        "album_record": "Ésseoponto Records",
+        "tracks": [
+            {
+                "name": "Tá de Chapéu",
+                "url": "https://www.vagalume.com.br/haikaiss/ta-de-chapeu.html"
+            },
+            {
+                "name": "Diploma",
+                "url": "https://www.vagalume.com.br/haikaiss/diploma.html"
+            },
+            {
+                "name": "O Dia",
+                "url": "https://www.vagalume.com.br/haikaiss/o-dia.html"
+            }
+        ]
+    },
+    {
+        "album_title": "Perfil",
+        "year": "2011",
+        "album_record": null,
+        "tracks": [
+            {
+                "name": "Canto da Estação",
+                "url": "https://www.vagalume.com.br/haikaiss/canto-da-estacao.html"
+            },
+            {
+                "name": "Canto da Estação",
+                "url": "https://www.vagalume.com.br/haikaiss/canto-da-estacao.html"
+            },
+            {
+                "name": "Camaleão",
+                "url": "https://www.vagalume.com.br/haikaiss/camaleao.html"
+            },
+            {
+                "name": "Estragando Plantas",
+                "url": "https://www.vagalume.com.br/haikaiss/estragando-plantas.html"
+            },
+            {
+                "name": "Filosofia de Boteco",
+                "url": "https://www.vagalume.com.br/haikaiss/filosofia-de-boteco.html"
+            },
+            {
+                "name": "Tá de Chapéu",
+                "url": "https://www.vagalume.com.br/haikaiss/ta-de-chapeu.html"
+            },
+            {
+                "name": "Diploma",
+                "url": "https://www.vagalume.com.br/haikaiss/diploma.html"
+            },
+            {
+                "name": "O Dia",
+                "url": "https://www.vagalume.com.br/haikaiss/o-dia.html"
+            },
+            {
+                "name": "Personagem",
+                "url": "https://www.vagalume.com.br/haikaiss/personagens.html"
+            }
+        ]
+    },
+    {
+        "album_title": "Incognito Orchestra",
+        "year": "2010",
+        "album_record": "Ésseponto Records",
+        "tracks": [
+            {
+                "name": "Prefácio",
+                "url": "https://www.vagalume.com.br/haikaiss/prefacio.html"
+            },
+            {
+                "name": "Ssiakiah",
+                "url": "https://www.vagalume.com.br/haikaiss/ssiakiah.html"
+            },
+            {
+                "name": "Letristas",
+                "url": "https://www.vagalume.com.br/haikaiss/letristas.html"
+            },
+            {
+                "name": "Especialidade",
+                "url": "https://www.vagalume.com.br/haikaiss/especialidade.html"
+            },
+            {
+                "name": "Mentira Manual",
+                "url": "https://www.vagalume.com.br/haikaiss/mentira-manual.html"
+            },
+            {
+                "name": "Contato Interdimensional",
+                "url": "https://www.vagalume.com.br/haikaiss/contato-interdimensional.html"
+            },
+            {
+                "name": "São Paulo",
+                "url": "https://www.vagalume.com.br/haikaiss/sao-paulo.html"
+            },
+            {
+                "name": "O Escolhido",
+                "url": "https://www.vagalume.com.br/haikaiss/o-escolhido.html"
+            },
+            {
+                "name": "Quem É Ela",
+                "url": "https://www.vagalume.com.br/haikaiss/quem-e-ela.html"
+            },
+            {
+                "name": "Os Reis Das Calçadas",
+                "url": "https://www.vagalume.com.br/haikaiss/os-reis-das-calcadas.html"
+            },
+            {
+                "name": "Outras Relações",
+                "url": "https://www.vagalume.com.br/haikaiss/outras-relacoes.html"
+            },
+            {
+                "name": "Síntese do Um",
+                "url": "https://www.vagalume.com.br/haikaiss/sintese-do-um.html"
+            },
+            {
+                "name": "Néctar de Helena",
+                "url": "https://www.vagalume.com.br/haikaiss/nectar-de-helena.html"
+            },
+            {
+                "name": "Problemas Que Te Fazem Feliz",
+                "url": "https://www.vagalume.com.br/haikaiss/problemas-que-te-fazem-feliz.html"
+            },
+            {
+                "name": "Existência",
+                "url": "https://www.vagalume.com.br/haikaiss/existencia.html"
+            }
+        ]
+    }
+]

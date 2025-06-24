@@ -1,0 +1,111 @@
+[
+    {
+        "album_title": "333",
+        "year": "2024",
+        "album_record": "30PRAUM",
+        "tracks": [
+            {
+                "name": "Crack com Mussilon",
+                "url": "https://www.vagalume.com.br/matue/crack-com-mussilon.html"
+            },
+            {
+                "name": "Imagina esse Cenário (Part. Veigh)",
+                "url": "https://www.vagalume.com.br/matue/imagina-esse-cenario-part-veigh.html"
+            },
+            {
+                "name": "Isso é Sério (Part. Brandão85)",
+                "url": "https://www.vagalume.com.br/matue/isso-e-serio-part-brandao85.html"
+            },
+            {
+                "name": "1993",
+                "url": "https://www.vagalume.com.br/matue/1993.html"
+            },
+            {
+                "name": "4Tal (Part. Teto)",
+                "url": "https://www.vagalume.com.br/matue/4tal-part-teto.html"
+            },
+            {
+                "name": "O Som",
+                "url": "https://www.vagalume.com.br/matue/o-som.html"
+            },
+            {
+                "name": "04AM",
+                "url": "https://www.vagalume.com.br/matue/04am.html"
+            },
+            {
+                "name": "Castlevania",
+                "url": "https://www.vagalume.com.br/matue/castlevania.html"
+            },
+            {
+                "name": "V de Vilão",
+                "url": "https://www.vagalume.com.br/matue/v-de-vilao.html"
+            },
+            {
+                "name": "Maria",
+                "url": "https://www.vagalume.com.br/matue/maria.html"
+            },
+            {
+                "name": "333",
+                "url": "https://www.vagalume.com.br/matue/333.html"
+            },
+            {
+                "name": "Like This!",
+                "url": "https://www.vagalume.com.br/matue/like-this.html"
+            }
+        ]
+    },
+    {
+        "album_title": "Sabor Overdose No Yakisoba",
+        "year": "2024",
+        "album_record": "Sony Music Brasil",
+        "tracks": [
+            {
+                "name": "A Última Dança",
+                "url": "https://www.vagalume.com.br/matue/a-ultima-danca.html"
+            },
+            {
+                "name": "Honey Babe",
+                "url": "https://www.vagalume.com.br/matue/honey-babe.html"
+            },
+            {
+                "name": "Reza do Milhão",
+                "url": "https://www.vagalume.com.br/matue/reza-do-milhao.html"
+            }
+        ]
+    },
+    {
+        "album_title": "Máquina do Tempo",
+        "year": "2020",
+        "album_record": null,
+        "tracks": [
+            {
+                "name": "Cogulândia",
+                "url": "https://www.vagalume.com.br/matue/cogulandia.html"
+            },
+            {
+                "name": "Antes",
+                "url": "https://www.vagalume.com.br/matue/antes.html"
+            },
+            {
+                "name": "Gorilla Roxo",
+                "url": "https://www.vagalume.com.br/matue/gorilla-roxo.html"
+            },
+            {
+                "name": "Vem Chapar",
+                "url": "https://www.vagalume.com.br/matue/vem-chapar.html"
+            },
+            {
+                "name": "777-666",
+                "url": "https://www.vagalume.com.br/matue/777-666.html"
+            },
+            {
+                "name": "É Sal",
+                "url": "https://www.vagalume.com.br/matue/e-sal.html"
+            },
+            {
+                "name": "Máquina do Tempo",
+                "url": "https://www.vagalume.com.br/matue/maquina-do-tempo.html"
+            }
+        ]
+    }
+]

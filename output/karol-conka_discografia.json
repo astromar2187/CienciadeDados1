@@ -1,0 +1,155 @@
+[
+    {
+        "album_title": "Urucum",
+        "year": "2022",
+        "album_record": "Sony Music Brasil.",
+        "tracks": [
+            {
+                "name": "Fuzuê",
+                "url": "https://www.vagalume.com.br/karol-conka/fuzue.html"
+            },
+            {
+                "name": "Se Sai",
+                "url": "https://www.vagalume.com.br/karol-conka/se-sai.html"
+            },
+            {
+                "name": "Mal Nenhum",
+                "url": "https://www.vagalume.com.br/karol-conka/mal-nenhum.html"
+            },
+            {
+                "name": "Cê Não Pode",
+                "url": "https://www.vagalume.com.br/karol-conka/ce-nao-pode.html"
+            },
+            {
+                "name": "Calma",
+                "url": "https://www.vagalume.com.br/karol-conka/calma.html"
+            },
+            {
+                "name": "Vejo o Bem (Part. RDD)",
+                "url": "https://www.vagalume.com.br/karol-conka/vejo-o-bem-part-rdd.html"
+            },
+            {
+                "name": "Sossego",
+                "url": "https://www.vagalume.com.br/karol-conka/sossego.html"
+            },
+            {
+                "name": "Slow",
+                "url": "https://www.vagalume.com.br/karol-conka/slow.html"
+            },
+            {
+                "name": "Por Inteira",
+                "url": "https://www.vagalume.com.br/karol-conka/por-inteira.html"
+            },
+            {
+                "name": "Subida",
+                "url": "https://www.vagalume.com.br/karol-conka/subida.html"
+            },
+            {
+                "name": "Louca e Sagaz",
+                "url": "https://www.vagalume.com.br/karol-conka/louca-e-sagaz.html"
+            }
+        ]
+    },
+    {
+        "album_title": "Ambulante",
+        "year": "2018",
+        "album_record": null,
+        "tracks": [
+            {
+                "name": "Kaça",
+                "url": "https://www.vagalume.com.br/karol-conka/kaca.html"
+            },
+            {
+                "name": "Bem Sucedida",
+                "url": "https://www.vagalume.com.br/karol-conka/bem-sucedida.html"
+            },
+            {
+                "name": "Vida Que Vale",
+                "url": "https://www.vagalume.com.br/karol-conka/vida-que-vale.html"
+            },
+            {
+                "name": "Vogue do Gueto",
+                "url": "https://www.vagalume.com.br/karol-conka/vogue-do-gueto.html"
+            },
+            {
+                "name": "Dominatrix",
+                "url": "https://www.vagalume.com.br/karol-conka/dominatrix.html"
+            },
+            {
+                "name": "Suíte",
+                "url": "https://www.vagalume.com.br/karol-conka/suite.html"
+            },
+            {
+                "name": "Saudade",
+                "url": "https://www.vagalume.com.br/karol-conka/saudade.html"
+            },
+            {
+                "name": "Desapego",
+                "url": "https://www.vagalume.com.br/karol-conka/desapego.html"
+            },
+            {
+                "name": "Fumacê",
+                "url": "https://www.vagalume.com.br/karol-conka/fumace.html"
+            },
+            {
+                "name": "Você Falou",
+                "url": "https://www.vagalume.com.br/karol-conka/voce-falou.html"
+            }
+        ]
+    },
+    {
+        "album_title": "Batuk Freak",
+        "year": "2013",
+        "album_record": "Deck",
+        "tracks": [
+            {
+                "name": "Corre, Corre Erê!",
+                "url": "https://www.vagalume.com.br/karol-conka/corre-corre-ere.html"
+            },
+            {
+                "name": "Gueto ao Luxo",
+                "url": "https://www.vagalume.com.br/karol-conka/gueto-ao-luxo.html"
+            },
+            {
+                "name": "Vô Lá",
+                "url": "https://www.vagalume.com.br/karol-conka/vo-la.html"
+            },
+            {
+                "name": "Gandaia",
+                "url": "https://www.vagalume.com.br/karol-conka/gandaia.html"
+            },
+            {
+                "name": "Você Não Vai",
+                "url": "https://www.vagalume.com.br/karol-conka/voce-nao-vai.html"
+            },
+            {
+                "name": "Bate a Poeira",
+                "url": "https://www.vagalume.com.br/karol-conka/bate-a-poeira.html"
+            },
+            {
+                "name": "Sandália (Part. Rincón Sapiência)",
+                "url": "https://www.vagalume.com.br/karol-conka/sandalia-part-rincon-sapiencia.html"
+            },
+            {
+                "name": "Mundo Loco",
+                "url": "https://www.vagalume.com.br/karol-conka/mundo-loco.html"
+            },
+            {
+                "name": "Que Delícia",
+                "url": "https://www.vagalume.com.br/karol-conka/que-delicia.html"
+            },
+            {
+                "name": "Olhe-Se (Part. Tuty)",
+                "url": "https://www.vagalume.com.br/karol-conka/olhe-se-part-tuty.html"
+            },
+            {
+                "name": "Boa Noite",
+                "url": "https://www.vagalume.com.br/karol-conka/boa-noite.html"
+            },
+            {
+                "name": "Caxambu",
+                "url": "https://www.vagalume.com.br/karol-conka/caxambu.html"
+            }
+        ]
+    }
+]

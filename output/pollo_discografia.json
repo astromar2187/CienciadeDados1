@@ -1,0 +1,124 @@
+[
+    {
+        "album_title": "Sete Sete Sete",
+        "year": "2014",
+        "album_record": "Som Livre",
+        "tracks": [
+            {
+                "name": "Ó Quem Voltou",
+                "url": "https://www.vagalume.com.br/pollo/o-quem-voltou.html"
+            },
+            {
+                "name": "Meu Mundo (Part. Kito)",
+                "url": "https://www.vagalume.com.br/pollo/meu-mundo-part-kito.html"
+            },
+            {
+                "name": "Atração",
+                "url": "https://www.vagalume.com.br/pollo/atracao.html"
+            },
+            {
+                "name": "Seis da Matina",
+                "url": "https://www.vagalume.com.br/pollo/seis-da-matina.html"
+            },
+            {
+                "name": "Solta na Noite (Part. Sorriso Maroto)",
+                "url": "https://www.vagalume.com.br/pollo/solta-na-noite-part-sorriso-maroto.html"
+            },
+            {
+                "name": "Namastê, Salamaleico",
+                "url": "https://www.vagalume.com.br/pollo/namaste-salamaleico.html"
+            },
+            {
+                "name": "Igual A Você, Não Tem (part. Lucas Dcan)",
+                "url": "https://www.vagalume.com.br/pollo/igual-a-voce-nao-tem-part-lucas-dcan.html"
+            },
+            {
+                "name": "Fiesta Muy Loka",
+                "url": "https://www.vagalume.com.br/pollo/fiesta-muy-loka.html"
+            },
+            {
+                "name": "Registrei",
+                "url": "https://www.vagalume.com.br/pollo/registrei.html"
+            },
+            {
+                "name": "Gênio da Lâmpada (part. Levi Lima)",
+                "url": "https://www.vagalume.com.br/pollo/genio-da-lampada-part-levi-lima.html"
+            },
+            {
+                "name": "Presença",
+                "url": "https://www.vagalume.com.br/pollo/presenca.html"
+            },
+            {
+                "name": "Tudo Bem (Part. Bella)",
+                "url": "https://www.vagalume.com.br/pollo/tudo-bem-part-bella.html"
+            },
+            {
+                "name": "Ops. (Part. Mr Catra)",
+                "url": "https://www.vagalume.com.br/pollo/ops-part-mr-catra.html"
+            }
+        ]
+    },
+    {
+        "album_title": "Vim Pra Dominar o Mundo",
+        "year": "2012",
+        "album_record": "Radar Records",
+        "tracks": [
+            {
+                "name": "Tamo no Jogo",
+                "url": "https://www.vagalume.com.br/pollo/tamo-no-jogo.html"
+            },
+            {
+                "name": "Mete o Pé",
+                "url": "https://www.vagalume.com.br/pollo/mete-o-pe.html"
+            },
+            {
+                "name": "Proteção",
+                "url": "https://www.vagalume.com.br/pollo/protecao.html"
+            },
+            {
+                "name": "Buxixos e Simpatias",
+                "url": "https://www.vagalume.com.br/pollo/buxixos-e-simpatias.html"
+            },
+            {
+                "name": "Tô Ficando Louco",
+                "url": "https://www.vagalume.com.br/pollo/to-ficando-louco.html"
+            },
+            {
+                "name": "Meu Bonde",
+                "url": "https://www.vagalume.com.br/pollo/meu-bonde.html"
+            },
+            {
+                "name": "As Quatro",
+                "url": "https://www.vagalume.com.br/pollo/as-quatro.html"
+            },
+            {
+                "name": "Seu Lugar",
+                "url": "https://www.vagalume.com.br/pollo/seu-lugar.html"
+            },
+            {
+                "name": "Love Song",
+                "url": "https://www.vagalume.com.br/pollo/love-song.html"
+            },
+            {
+                "name": "Deixa Sua Filha Sair Com Nóis",
+                "url": "https://www.vagalume.com.br/pollo/deixa-sua-filha-sair-com-nois.html"
+            },
+            {
+                "name": "Vim Pra Dominar o Mundo (part. Terra Preta)",
+                "url": "https://www.vagalume.com.br/pollo/vim-pra-dominar-o-mundo-part-terra-preta.html"
+            },
+            {
+                "name": "Trama",
+                "url": "https://www.vagalume.com.br/pollo/trama.html"
+            },
+            {
+                "name": "Vagalumes (part. Ivo Mozart)",
+                "url": "https://www.vagalume.com.br/pollo/vagalumes-part-ivo-mozart.html"
+            },
+            {
+                "name": "Piritubacity",
+                "url": "https://www.vagalume.com.br/pollo/piritubacity.html"
+            }
+        ]
+    }
+]

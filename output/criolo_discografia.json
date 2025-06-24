@@ -1,0 +1,284 @@
+[
+    {
+        "album_title": "Existe Amor (com Milton Nascimento)",
+        "year": "2020",
+        "album_record": null,
+        "tracks": [
+            {
+                "name": "Cais (part. Amaro Freitas)",
+                "url": "https://www.vagalume.com.br/criolo/cais-com-milton-nascimento-part-amaro-freitas.html"
+            },
+            {
+                "name": "Dez Anjos",
+                "url": "https://www.vagalume.com.br/criolo/dez-anjos-com-milton-nascimento.html"
+            },
+            {
+                "name": "Não Existe Amor em SP (part. Amaro Freitas)",
+                "url": "https://www.vagalume.com.br/criolo/nao-existe-amor-em-sp-com-milton-nascimento-part-amaro-freitas.html"
+            },
+            {
+                "name": "O Tambor",
+                "url": "https://www.vagalume.com.br/criolo/o-tambor-com-milton-nascimento.html"
+            }
+        ]
+    },
+    {
+        "album_title": "Espiral de Ilusão",
+        "year": "2017",
+        "album_record": null,
+        "tracks": [
+            {
+                "name": "Lá Vem Você",
+                "url": "https://www.vagalume.com.br/criolo/la-vem-voce.html"
+            },
+            {
+                "name": "Dilúvio de Solidão",
+                "url": "https://www.vagalume.com.br/criolo/diluvio-de-solidao.html"
+            },
+            {
+                "name": "Menino Mimado",
+                "url": "https://www.vagalume.com.br/criolo/menino-mimado.html"
+            },
+            {
+                "name": "Nas Águas",
+                "url": "https://www.vagalume.com.br/criolo/nas-aguas.html"
+            },
+            {
+                "name": "Filha do Maneco",
+                "url": "https://www.vagalume.com.br/criolo/filha-do-maneco.html"
+            },
+            {
+                "name": "Espiral de Ilusão",
+                "url": "https://www.vagalume.com.br/criolo/espiral-de-ilusao.html"
+            },
+            {
+                "name": "Calçada",
+                "url": "https://www.vagalume.com.br/criolo/calcada.html"
+            },
+            {
+                "name": "Boca Fofa",
+                "url": "https://www.vagalume.com.br/criolo/boca-fofa.html"
+            },
+            {
+                "name": "Hora da Decisão",
+                "url": "https://www.vagalume.com.br/criolo/hora-da-decisao.html"
+            },
+            {
+                "name": "Cria de Favela",
+                "url": "https://www.vagalume.com.br/criolo/cria-de-favela.html"
+            }
+        ]
+    },
+    {
+        "album_title": "Ainda Há Tempo",
+        "year": "2016",
+        "album_record": "Oloko",
+        "tracks": [
+            {
+                "name": "É o Teste",
+                "url": "https://www.vagalume.com.br/criolo/e-o-teste.html"
+            },
+            {
+                "name": "Chuva Ácida",
+                "url": "https://www.vagalume.com.br/criolo/chuva-acida.html"
+            },
+            {
+                "name": "Tô Pra Ver",
+                "url": "https://www.vagalume.com.br/criolo/to-pra-ver.html"
+            },
+            {
+                "name": "Breaco",
+                "url": "https://www.vagalume.com.br/criolo/breaco.html"
+            },
+            {
+                "name": "Até Me Emocionei",
+                "url": "https://www.vagalume.com.br/criolo/ate-me-emocionei.html"
+            },
+            {
+                "name": "Demorô",
+                "url": "https://www.vagalume.com.br/criolo/demoro.html"
+            },
+            {
+                "name": "Vasilhame",
+                "url": "https://www.vagalume.com.br/criolo/vasilhame.html"
+            },
+            {
+                "name": "Ainda Há Tempo",
+                "url": "https://www.vagalume.com.br/criolo/ainda-ha-tempo.html"
+            }
+        ]
+    },
+    {
+        "album_title": "Convoque Seu Buda",
+        "year": "2014",
+        "album_record": null,
+        "tracks": [
+            {
+                "name": "Convoque Seu Buda",
+                "url": "https://www.vagalume.com.br/criolo/convoque-seu-buda.html"
+            },
+            {
+                "name": "Esquiva Da Esgrima",
+                "url": "https://www.vagalume.com.br/criolo/esquiva-da-esgrima.html"
+            },
+            {
+                "name": "Cartão de Visita (Part. Tulipa Ruiz)",
+                "url": "https://www.vagalume.com.br/criolo/cartao-de-visita.html"
+            },
+            {
+                "name": "Casa de Papelão",
+                "url": "https://www.vagalume.com.br/criolo/casa-de-papelao.html"
+            },
+            {
+                "name": "Fermento Pra Massa",
+                "url": "https://www.vagalume.com.br/criolo/fermento-pra-massa.html"
+            },
+            {
+                "name": "Pé de Breque",
+                "url": "https://www.vagalume.com.br/criolo/pe-de-breque.html"
+            },
+            {
+                "name": "Pegue Pra Ela",
+                "url": "https://www.vagalume.com.br/criolo/pegue-pra-ela.html"
+            },
+            {
+                "name": "Plano de Vôo (Part. Síntese)",
+                "url": "https://www.vagalume.com.br/criolo/plano-de-voo.html"
+            },
+            {
+                "name": "Duas de Cinco",
+                "url": "https://www.vagalume.com.br/criolo/duas-de-cinco.html"
+            },
+            {
+                "name": "Fio De Prumo (Padê Onã) (Part. Juçara Marçal)",
+                "url": "https://www.vagalume.com.br/criolo/fio-de-prumo-pade-ona.html"
+            }
+        ]
+    },
+    {
+        "album_title": "Criolo & Emicida - Ao Vivo",
+        "year": "2013",
+        "album_record": "Universal",
+        "tracks": [
+            {
+                "name": "Zica, Vai Lá",
+                "url": "https://www.vagalume.com.br/criolo/zica-vai-la.html"
+            },
+            {
+                "name": "Dedo Na Ferida",
+                "url": "https://www.vagalume.com.br/criolo/dedo-na-ferida.html"
+            },
+            {
+                "name": "Rua Augusta",
+                "url": "https://www.vagalume.com.br/criolo/rua-augusta.html"
+            },
+            {
+                "name": "Mariô",
+                "url": "https://www.vagalume.com.br/criolo/mario.html"
+            },
+            {
+                "name": "Subirusdoistiozin",
+                "url": "https://www.vagalume.com.br/criolo/subirusdoistiozin.html"
+            },
+            {
+                "name": "Demorô",
+                "url": "https://www.vagalume.com.br/criolo/demoro.html"
+            },
+            {
+                "name": "Viva (Melô Dos Vileiros)",
+                "url": "https://www.vagalume.com.br/criolo/viva-feat-rael-da-rima.html"
+            },
+            {
+                "name": "Só Mais Uma Noite",
+                "url": "https://www.vagalume.com.br/criolo/so-mais-uma-noite.html"
+            },
+            {
+                "name": "Não Existe Amor em Sp",
+                "url": "https://www.vagalume.com.br/criolo/nao-existe-amor-em-sp.html"
+            },
+            {
+                "name": "Linha de Frente",
+                "url": "https://www.vagalume.com.br/criolo/linha-de-frente.html"
+            },
+            {
+                "name": "A Cada Vento",
+                "url": "https://www.vagalume.com.br/criolo/a-cada-vento.html"
+            },
+            {
+                "name": "Outras Palavras",
+                "url": "https://www.vagalume.com.br/criolo/outras-palavras.html"
+            },
+            {
+                "name": "Lion Man",
+                "url": "https://www.vagalume.com.br/criolo/lion-man.html"
+            },
+            {
+                "name": "Grajauex",
+                "url": "https://www.vagalume.com.br/criolo/grajauex.html"
+            },
+            {
+                "name": "Triunfo",
+                "url": "https://www.vagalume.com.br/criolo/triunfo.html"
+            },
+            {
+                "name": "Capítulo 4, Versículo 3",
+                "url": "https://www.vagalume.com.br/criolo/capitulo-4-versiculo-3-com-mano-brown-e-emicida.html"
+            },
+            {
+                "name": "Vida Loka I",
+                "url": "https://www.vagalume.com.br/criolo/vida-loka-i-com-emicida-e-mano-brown.html"
+            },
+            {
+                "name": "Bogotá",
+                "url": "https://www.vagalume.com.br/criolo/bogota.html"
+            }
+        ]
+    },
+    {
+        "album_title": "Nó Na Orelha",
+        "year": "2011",
+        "album_record": null,
+        "tracks": [
+            {
+                "name": "Bogotá",
+                "url": "https://www.vagalume.com.br/criolo/bogota.html"
+            },
+            {
+                "name": "Subirusdoistiozin",
+                "url": "https://www.vagalume.com.br/criolo/subirusdoistiozin.html"
+            },
+            {
+                "name": "Não Existe Amor em Sp",
+                "url": "https://www.vagalume.com.br/criolo/nao-existe-amor-em-sp.html"
+            },
+            {
+                "name": "Mariô",
+                "url": "https://www.vagalume.com.br/criolo/mario.html"
+            },
+            {
+                "name": "Freguês da Meia Noite",
+                "url": "https://www.vagalume.com.br/criolo/fregues-da-meia-noite.html"
+            },
+            {
+                "name": "Grajauex",
+                "url": "https://www.vagalume.com.br/criolo/grajauex.html"
+            },
+            {
+                "name": "Samba Sambei",
+                "url": "https://www.vagalume.com.br/criolo/samba-sambei.html"
+            },
+            {
+                "name": "Sucrilhos",
+                "url": "https://www.vagalume.com.br/criolo/sucrilhos.html"
+            },
+            {
+                "name": "Lion Man",
+                "url": "https://www.vagalume.com.br/criolo/lion-man.html"
+            },
+            {
+                "name": "Linha de Frente",
+                "url": "https://www.vagalume.com.br/criolo/linha-de-frente.html"
+            }
+        ]
+    }
+]
